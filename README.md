@@ -15,6 +15,8 @@ Suíte de ferramentas que desenvolvedores usam todo dia — num só lugar, rápi
   <a href="https://samuelf27.github.io/devtoolbox/"><b>🔗 Abrir ao vivo</b></a>
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Samuelf27/devtoolbox/main/preview.png" alt="Preview do projeto" width="760" /></p>
+
 ---
 
 ## 📌 Sobre o projeto
